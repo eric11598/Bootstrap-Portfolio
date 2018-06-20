@@ -1,0 +1,28 @@
+#navHeader{
+    font-size: 24px;
+    float: left;
+    padding: 14px 16px;
+    color: white;
+    background: #4aaaa5;
+}
+
+.container{
+    width: 960px;
+}
+
+#self{
+    width: 200px;
+    height: 200px;
+    float: left;
+    padding: 5px;
+}
+
+#self:hover{
+    outline: 2px solid black; 
+    outline-offset: -5px;
+}
+
+p{
+    color: #777777;
+    font-size: 20px;
+}
